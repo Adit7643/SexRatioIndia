@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+    background-size: cover;
     color: #333;
   }
   
@@ -22,7 +23,6 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    width: 200px;
   }
   
   .sidebar h2 {
