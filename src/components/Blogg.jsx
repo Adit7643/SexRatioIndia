@@ -3,7 +3,7 @@ import { Box, Typography, Paper, Container, List, ListItem, ListItemText, Grid, 
 import { useMediaQuery } from "@mui/material";
 import { fontFamily, styled } from "@mui/system";
 import MenuIcon from "@mui/icons-material/Menu";
-import sexRatio from "../assets/untitled.png";
+import sexRatio from "../assets/Untitled.png";
 import img from "../assets/sex-ratio.webp";
 import genImg from "../assets/download.jpeg";
 import Lpu from "../assets/lpu.jpg";
