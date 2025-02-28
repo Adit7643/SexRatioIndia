@@ -3,7 +3,7 @@ import Blogg from './components/blog'
 const App = () => {
   return (
     <div>
-    <Blog />
+    <Blogg />
     </div>
   )
 }
