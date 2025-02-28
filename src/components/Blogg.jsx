@@ -49,7 +49,7 @@ const Image = styled("img")({
 // Enable smooth scrolling
 document.documentElement.style.scrollBehavior = "smooth";
 
-const Blog = () => {
+const Blogg = () => {
   const [open, setOpen] = useState(false);
   const isSmallScreen = useMediaQuery("(max-width:900px)");
   const sections = [
@@ -347,4 +347,4 @@ These stark regional differences highlight the complex interplay of cultural tra
   );
 };
 
-export default Blog;
+export default Blogg;
